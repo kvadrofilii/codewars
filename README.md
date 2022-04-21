@@ -1,5 +1,7 @@
 # codewars
 
+My profile https://www.codewars.com/users/kvadrofilii
+
 ## Numbers, strings
 
 7 kyu https://www.codewars.com/kata/highest-and-lowest
